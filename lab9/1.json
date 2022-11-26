@@ -1,0 +1,22 @@
+{
+    "National Geographic": [
+        5,
+        9000
+    ],
+    "Time": [
+        7,
+        8000
+    ],
+    "Reader's Digest": [
+        11,
+        15000
+    ],
+    "Cosmopolitan": [
+        15,
+        20000
+    ],
+    "Vogue": [
+        12,
+        7000
+    ]
+}
